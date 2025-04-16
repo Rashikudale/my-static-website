@@ -1,0 +1,28 @@
+# My Static Website
+
+This is a simple static website hosted using **GitHub Pages**. It contains basic HTML and CSS to demonstrate how to deploy a site using GitHub's free hosting service.
+
+## Live Website
+
+🔗 (https://rashikudale.github.io/my-static-website/)
+
+
+
+## 📁 Project Structure
+
+## 🚀 How I Deployed It
+
+1. Created a project netflix clone using html and css.
+2. Pushed it to a GitHub repository.
+3. Enabled GitHub Pages from the repo settings.
+4. Selected the `main` branch and `/ (root)` folder.
+5. Accessed the live link provided by GitHub Pages.
+
+
+
+## 📸 Screenshot
+
+![screenshot](screenshot.png)
+
+
+
